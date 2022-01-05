@@ -6,7 +6,7 @@ description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://masoomehghaffari.github.io/labexam/ # site repo [optional]onepase/Ephesus
+repo: https://github.com/MasoomehGhaffari/labexam.git # site repo [optional]onepase/Ephesus
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
