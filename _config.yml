@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
-  picture: assets/images/profile.jpg 
-  github: onepase # github username
+  name: Masoomeh Ghaffari
+  bio: Computer student from IUST
+  picture: assets/images/home.jpg 
+  github: MasoomehGhaffari # github username
   twitter: onepase # twitter username
   facebook: onepase # facebook username
   instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  youtube: # youtube username
+  linkedin: Masoomeh Ghaffri # linkedin username
+  email: masoumehghaffari81@gmail.com # email adress
 
 
 # URL settings
